@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AccessPhoneServiceDemo</string>
+    <string name="website">Let"s Open Programming Masters</string>
+    <string name="search">Let"s Open Google</string>
+    <string name="callSomeone">Let"s call Someone</string>
+    <string name="dialPad">Let"s Open a Dial Pad</string>
+    <string name="mainText">Accessing Phone Service App</string>
+</resources>
